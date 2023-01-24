@@ -1,3 +1,3 @@
-# Whatsapp-Python-API
+# WPSL - Whatsapp Python Scripting Library
 
 Coming Soon
